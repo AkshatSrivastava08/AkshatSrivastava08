@@ -36,7 +36,7 @@
   </span>
   <!-- Discord -->
   <span>
-    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <a href="https://discord.com/users/akshat5609" target="_blank">
       <img src="https://img.icons8.com/color/96/discord-logo.png" alt="Discord" width="36" style="margin: 0 12px;" />
     </a>
   </span>
