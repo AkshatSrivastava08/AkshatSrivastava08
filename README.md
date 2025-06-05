@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=600&pause=1200&color=39FF14&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I+am+Akshat+Srivastava_" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on nawab AI's frontend<br>🌱 I’m currently learning AI/ML <br>💬 Ask me about React, Javascript, Node.js, Express.js<br>
 
