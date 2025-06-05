@@ -6,41 +6,47 @@
 
 <hr style="border: none; height: 1px; background: #ccc; margin: 30px 0;" />
 
-<p>
-  🔭 Currently working on Nawab AI's frontend<br>
-  🌱 Learning AI/ML and building smart tools<br>
-  💬 Ask me about React, JavaScript, Node.js, and Express.js
-</p>
+
+  - 🔭 Currently working on Nawab AI's frontend<br>
+  - 🌱 Learning AI/ML and building smart tools<br>
+  - 💬 Ask me about React, JavaScript, Node.js, and Express.js
+
 
 <hr style="border: none; height: 1px; background: #ccc; margin: 30px 0;" />
 
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
   <!-- Gmail -->
-  <a href="mailto:srivastavaakshat080901@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="36" style="margin: 0 12px;" />
-  </a>
-  
+  <span>
+    <a href="mailto:srivastavaakshat080901@gmail.com" target="_blank">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" alt="Gmail" width="36" style="margin: 0 12px;" />
+    </a>
+  </span>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/akshatsrivastava2001/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="36" style="margin: 0 12px;" />
-  </a>
-  
+  <span>
+    <a href="https://www.linkedin.com/in/akshatsrivastava2001/" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752134-2284952.png" alt="LinkedIn" width="36" style="margin: 0 12px;" />
+    </a>
+  </span>
   <!-- Instagram -->
-  <a href="https://instagram.com/akshat7961" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="36" style="margin: 0 12px;" />
-  </a>
-  
+  <span>
+    <a href="https://instagram.com/akshat7961" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="36" style="margin: 0 12px;" />
+    </a>
+  </span>
   <!-- Discord -->
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="36" style="margin: 0 12px;" />
-  </a>
-  
+  <span>
+    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+      <img src="https://img.icons8.com/color/96/discord-logo.png" alt="Discord" width="36" style="margin: 0 12px;" />
+    </a>
+  </span>
   <!-- LeetCode -->
+<span>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="36" style="margin: 0 12px;" />
+<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="36" style="margin: 0 12px;" />
   </a>
-</p>
+</span>
+
 
 
 
